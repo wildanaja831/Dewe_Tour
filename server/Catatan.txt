@@ -1,0 +1,15 @@
+Register : 
+
+- Pada bagian response body terdapat token, itu bagaimana?
+
+User :
+
+- Delete user harus di taruh dimana pada mockup?
+
+Country : 
+
+- Untuk country di mockup tidak ada apa harus buat sendiri?
+
+Transaction :
+
+- Pada bagian edit transaction, apa itu edit hanya pada status saja atau kita bisa mengedit seluruhnya? dan apa bila edit seluruhny, dimana tempat untuk mengeditnya?
